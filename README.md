@@ -26,7 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ortonikc&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ortonikc&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehan22&" alt="sehan22" /></p>
