@@ -28,6 +28,6 @@
 <h1 align="center">📊 GitHub Stats:</h1><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=ortonikc&theme=react&hide_border=true&include_all_commits=true&count_private=false)     ![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=react&hide_border=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ortonikc&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=list)<br/>
+
 
 
